@@ -34,3 +34,7 @@ This app allows users to **create, edit, and delete notes** securely with **Fire
 1. Clone this repository:
    ```bash
    git clone https://github.com/<your-username>/NotesApplication.git
+
+
+## Note for Using Code:
+This code is not complete project. Given Folder contains java and xml files along with some other importent files (i.e. Androidmanifest, and gradle files)
